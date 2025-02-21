@@ -1,0 +1,1 @@
+{"version":3,"file":"DefaultEventSerializer.d.ts","sourceRoot":"","sources":["../../../src/events/DefaultEventSerializer.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,mBAAmB,CAAC;AACrD,OAAO,EAAa,MAAM,EAAe,MAAM,SAAS,CAAC;AAEzD,qBAAa,sBAAuB,YAAW,gBAAgB;IAC7D,SAAS,CAAC,MAAM,EAAE,MAAM,EAAE,GAAG,MAAM;CAOpC"}

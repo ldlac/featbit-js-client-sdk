@@ -1,0 +1,1 @@
+{"version":3,"file":"IDataSynchronizer.d.ts","sourceRoot":"","sources":["../../../src/data-sync/IDataSynchronizer.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,kBAAkB,CAAC;AAEzC;;;;;;GAMG;AACH,MAAM,WAAW,iBAAiB;IAChC,KAAK,EAAE,MAAM,IAAI,CAAC;IAClB,IAAI,EAAE,MAAM,IAAI,CAAC;IACjB,KAAK,EAAE,MAAM,IAAI,CAAC;IAClB,QAAQ,EAAE,CAAC,IAAI,EAAE,KAAK,KAAK,IAAI,CAAC;CACjC"}

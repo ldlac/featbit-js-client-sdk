@@ -1,0 +1,1 @@
+{"version":3,"file":"BrowserRequests.d.ts","sourceRoot":"","sources":["../../../../src/platform/browser/BrowserRequests.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AAEzD,qBAAc,eAAgB,YAAW,SAAS;IAChD,KAAK,CAAC,GAAG,EAAE,MAAM,EAAE,OAAO,GAAE,eAAoB,GAAG,OAAO,CAAC,GAAG,CAAC;CAGhE"}

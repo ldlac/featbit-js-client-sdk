@@ -1,0 +1,1 @@
+{"version":3,"file":"BrowserInfo.d.ts","sourceRoot":"","sources":["../../../../src/platform/browser/BrowserInfo.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,aAAa,EAAE,QAAQ,EAAE,MAAM,UAAU,CAAC;AAI1D,MAAM,CAAC,OAAO,OAAO,WAAY,YAAW,KAAK;IAC/C,IAAI,OAAO,IAAI,MAAM,CAEpB;IAED,YAAY,IAAI,aAAa;IAQ7B,OAAO,IAAI,QAAQ;CAOpB"}

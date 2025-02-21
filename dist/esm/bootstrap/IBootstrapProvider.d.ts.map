@@ -1,0 +1,1 @@
+{"version":3,"file":"IBootstrapProvider.d.ts","sourceRoot":"","sources":["../../../src/bootstrap/IBootstrapProvider.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,MAAM,6BAA6B,CAAC;AAEjE,MAAM,WAAW,kBAAkB;IACjC,QAAQ,CAAC,SAAS,EAAE,MAAM,EAAE,iBAAiB,EAAE,kBAAkB,EAAE,QAAQ,CAAC,EAAE,MAAM,IAAI,GAAG,OAAO,CAAC,IAAI,CAAC,CAAA;CACzG"}

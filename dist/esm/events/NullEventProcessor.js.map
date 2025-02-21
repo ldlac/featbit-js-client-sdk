@@ -1,0 +1,1 @@
+{"version":3,"file":"NullEventProcessor.js","sourceRoot":"","sources":["../../../src/events/NullEventProcessor.ts"],"names":[],"mappings":";;;AAGA,MAAa,kBAAkB;IAC7B,KAAK;QACH,OAAO,OAAO,CAAC,OAAO,EAAE,CAAC;IAC3B,CAAC;IAED,KAAK;QACH,OAAO,OAAO,CAAC,OAAO,EAAE,CAAC;IAC3B,CAAC;IAED,MAAM,CAAC,KAAoB;QACzB,OAAO,KAAK,CAAC;IACf,CAAC;CACF;AAZD,gDAYC"}
